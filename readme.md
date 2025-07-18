@@ -1,4 +1,4 @@
-# Keycloak Employees Roles Configurator 
+# Keycloak Roles Configurator 
 
 [![Keycloak](https://img.shields.io/badge/Keycloak-2C7FBF?style=for-the-badge&logo=keycloak&logoColor=white)](https://www.keycloak.org/) [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/excel) [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/) [![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=rest)](https://en.wikipedia.org/wiki/REST)  
 
