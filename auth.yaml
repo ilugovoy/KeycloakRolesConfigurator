@@ -1,0 +1,3 @@
+keycloak:
+  admin_user: "<ваш логин админской УЗ для доступа к Keycloak>"
+  admin_pass: "<ваш пароль админской УЗ для доступа к Keycloak>"
